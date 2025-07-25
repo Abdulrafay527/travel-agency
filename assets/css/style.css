@@ -244,6 +244,79 @@
 }
 
 
+.site-para{
+    font-size: 16px;
+    font-weight: 500;
+    color: #a3a3a3;
+}
+
+
+.visit-heading{
+    font-size: 28px;
+    font-weight: 800;
+    color: #333333;
+}
 
 
 
+.after-para{
+    font-size: 18px;
+    font-weight: 400;
+    color: #333333;
+}
+
+
+
+
+.years-para{
+    color: #a3a3a3;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+
+.section-bg-img{
+    background-image: url('../images/Rectangle\ 51.svg');
+    padding: 90px;
+}
+
+.small-section{
+    background: #FFFFFF4D;
+    /* padding: 10px 5px; */
+    padding: 30px;
+    border-radius: 10px;
+}
+
+
+.get-special{
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+
+.lorem-para{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+.contact-us{
+    background-color: #FA8B02;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.set-img{
+    position: relative;
+}
+
+.lady-pic{
+    position: absolute;
+    bottom: -90px;
+    right: 10px;
+}
