@@ -320,3 +320,15 @@
     bottom: -90px;
     right: 10px;
 }
+
+
+.bike-heading{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.quality-para{
+    color: #333333;
+    font-weight: 400;
+    font-size: 14px;
+}
