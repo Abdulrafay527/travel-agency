@@ -332,3 +332,170 @@
     font-weight: 400;
     font-size: 14px;
 }
+
+.section-bg-img-1{
+    background-image: url('../images/Rectangle\ 51.svg');
+    /* padding: 10px;*/
+    /* max-height: 500px; */
+}
+
+.now-heading{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.small-section-1{
+    background: #FFFFFF4D;
+    /* padding: 10px 100px; */
+    /* max-height: 448px; */
+
+}
+
+.name-span{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.input-type{
+    border: none;
+    padding: 10px 20px 10px 16px;
+      max-width: 300px;
+    border-radius: 8px;
+}
+
+.input-type::placeholder{
+    font-size: 14px;
+    font-weight: 500;
+    color: #cccccc;
+}
+
+.dropdown-style{
+    border: none;
+    background-color: #FFFFFF;
+    color: #cccccc;
+    padding: 12.8px 16px;
+      max-width: 300px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+
+
+
+.book-heading{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.name-span{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.input-style{
+    border: none;
+    padding: 8px 30px 8px 10px ;
+    border-radius: 10px;
+}
+
+
+.input-style::placeholder{
+    color: #cccccc;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.date-para{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.input-style-1{
+    border: none;
+    padding: 8px 70px 8px 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #cccccc;
+}
+
+
+
+input[type="date"] {
+  padding: 8px 13px !important;
+  font-size: 16px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+  /* background-color: #f0f0f0; */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  outline: none;
+  width: 220px;
+  transition: 0.3s ease;
+}
+
+input[type="date"]:focus {
+  border-color: #007BFF;
+  box-shadow: 0 0 3px #007BFF55;
+  background-color: #fff;
+}
+
+/* Calendar icon styling (works in Chrome, Edge, Safari) */
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  background-color: #007BFF;
+  padding: 5px;
+  border-radius: 3px;
+  filter: invert(1);
+}
+
+
+
+
+  .time-picker {
+      width: 220px;
+      height: 41.5px;
+      background: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 0 15px;
+      font-size: 16px;
+      color: #666;
+      box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+      outline: none;
+      cursor: pointer;
+    }
+
+    .time-picker::-webkit-calendar-picker-indicator {
+      background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" fill="gray" viewBox="0 0 24 24"><path d="M12 20a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm0-18C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm.5 5H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"></path></svg>') no-repeat center;
+      background-size: 20px;
+      opacity: 0.6;
+    }
+
+
+    .back-now{
+        border: none;
+        background-color: #FA8B02;
+        padding: 10px 30px ;
+        color: #FFFFFF;
+        border-radius: 20px;
+    }
+
+    .section-bg-img-2{
+        background-image: url('../images/Rectangle\ 51.svg');
+        padding: 20px;
+    }
+
+    .set-section{
+        position: relative;
+    }
+
+    .set-img-2{
+        position: absolute;
+        bottom: -30px;
+        max-width: 650px;
+    }
