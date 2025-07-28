@@ -643,3 +643,78 @@ input[type="date"]::-webkit-calendar-picker-indicator {
          border-top: 1px solid #fff ;
         opacity: 0.1;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .second-bg-img{
+        background-image: url('../images/julia-solonina-Csja8O0sbOw-unsplash\ 2.svg');
+        padding: 10px 10px 130px 10px ;
+    }
+
+    .section-heading-1{
+        font-size: 40px;
+        font-weight: 700;
+        font-family: Podcast;
+        color: #fff;
+    }
+
+    .Enjoy-para-1{
+        font-size: 17px;
+        font-weight: 600;
+        color: #fff;
+        text-align: center;
+    }
+
+
+    .veiw-btn{
+        border: 1.5px solid #FFFFFF;
+        background-color: transparent;
+        font-size: 16px;
+        font-weight: 500;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 50px;
+    }
+
+    .bg-set-img{
+        background-image: url('../images/Rectangle\ 51.svg');
+        padding: 50px 10px ;
+    }
+
+
+    .complete-box{
+      background: #FFFFFF4D;
+        padding: 20px;
+        border-radius: 24px;
+    }
+
+    .complete-para{
+        font-size: 16px;
+        font-weight: 700;
+
+    }
+
+
+    .complete-box-1{
+         background: #FFFFFF4D;
+        padding: 32px;
+        border-radius: 24px;
+    }
+
+    .complete-box-2{
+          background: #FFFFFF4D;
+        padding: 32px 10px;
+        border-radius: 24px;
+    }
