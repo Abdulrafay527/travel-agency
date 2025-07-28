@@ -739,3 +739,40 @@ input[type="date"]::-webkit-calendar-picker-indicator {
         font-weight: 600;
         color: #FA8B02;
     }
+
+
+    .tasting-heading{
+        font-size: 38px;
+        font-weight: 700;
+
+    }
+
+
+    .from-span{
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .Lorem-para{
+        font-size: 16px;
+        font-weight: 500;
+        color: #a3a3a3;
+
+    }
+
+
+    .select-para{
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+
+    .buy-now-btn{
+        border: none;
+        background-color: #FA8B02;
+        padding: 10px 50px;
+        border-radius: 50px;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-weight: 700;
+    }
