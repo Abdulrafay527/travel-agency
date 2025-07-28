@@ -18,6 +18,13 @@
     font-weight: 500;
 }
 
+.nav-ul-1{
+     list-style: none;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 500;
+}
+
 .nav-ul :hover{
     text-decoration: underline #FA8B02 ;
 }
@@ -44,6 +51,14 @@
     font-weight: 600;
 }
 
+
+.login-btn-1{
+     background-color: transparent;
+    color: #333333;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
 
 .sign-up-btn{
     background-color: #FA8B02;
